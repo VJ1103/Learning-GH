@@ -1,0 +1,10 @@
+// Online C++ compiler to run C++ program online
+#include <bits/stdc++.h>
+
+int main() {
+    // Write C++ code here
+int x=11;
+// std::cin>>x;
+std::cout<<"output is: "<<x;
+    return 0;
+}
